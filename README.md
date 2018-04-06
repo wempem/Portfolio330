@@ -1,1 +1,1 @@
-README
+This code creates two different circuit modules, circuit long and circuit short which each have the same output but have different gates to come up with the output. In order to run the code, enter either folder "cicruitlong" or "circuitshort" and enter the command "make" into the command line for the code to compile and run.
